@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: bard-http-srv
+Version: 0.1.0
+Summary: bard http server
+Home-page: https://github.com/NullpointerW/bard-http-srv
+Author: vow1231a
+Author-email: voidmanwzp@gmail.com
+License: MIT
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+bard-http-srv
+-----------------------
+### 
+Http service for Google bard request  
+api lib: use [Bard-API](https://github.com/dsdanielpark/Bard-API)

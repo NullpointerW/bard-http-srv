@@ -1,0 +1,7 @@
+LICENSE
+setup.py
+bard_http_srv.egg-info/PKG-INFO
+bard_http_srv.egg-info/SOURCES.txt
+bard_http_srv.egg-info/dependency_links.txt
+bard_http_srv.egg-info/requires.txt
+bard_http_srv.egg-info/top_level.txt
