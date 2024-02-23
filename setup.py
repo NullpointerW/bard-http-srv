@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         # 在这里列出你的库所需的其他Python包
-        'bardapi==0.1.23a0'
+        'bardapi==0.1.23a0',
         'Flask==2.3.2'
     ],
 
