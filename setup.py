@@ -7,7 +7,7 @@ setup(
     install_requires=[
         # 在这里列出你的库所需的其他Python包
         'bardapi==0.1.23a0',
-        'Flask==2.3.2'
+        'Flask==2.3.2',
     ],
 
     author="vow1231a",
