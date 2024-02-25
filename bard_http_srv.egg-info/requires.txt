@@ -1,1 +1,2 @@
-bardapiFlask
+bardapi==0.1.23a0
+Flask==2.3.2
