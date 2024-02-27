@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
 Name: bard-http-srv
-Version: 0.1.1
+Version: 0.1.2
 Summary: bard http server
 Home-page: https://github.com/NullpointerW/bard-http-srv
 Author: vow1231a
 Author-email: voidmanwzp@gmail.com
 License: MIT
-Classifier: Development Status :: 3 - Alpha
+Classifier: Development Status :: 4 - Beta
 Classifier: Intended Audience :: Developers
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Programming Language :: Python
