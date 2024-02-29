@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="bard-http-srv",
-    version="0.1.2",
+    version="0.1.3",
     packages=find_packages(),
     install_requires=[
         # 在这里列出你的库所需的其他Python包
@@ -28,4 +28,7 @@ setup(
         "Programming Language :: Python :: 3.8",
         "Programming Language :: Python :: 3.9",
     ],
+     project_urls={
+        'Source': "https://github.com/NullpointerW/bard-http-srv",
+    },
 )
