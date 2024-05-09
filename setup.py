@@ -2,12 +2,13 @@ from setuptools import setup, find_packages
 
 setup(
     name="bard-http-srv",
-    version="0.1.3",
+    version="0.1.4",
     packages=find_packages(),
     install_requires=[
         # 在这里列出你的库所需的其他Python包
         'bardapi==0.1.23a0',
         'Flask==2.3.2',
+        'configparser==7.0.0',
     ],
 
     author="vow1231a",
